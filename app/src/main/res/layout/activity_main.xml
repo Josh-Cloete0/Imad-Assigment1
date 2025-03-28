@@ -37,6 +37,7 @@
         android:ems="10"
         android:hint="Input time of day"
         android:inputType="text"
+        android:textColor="@color/white"
         android:textColorHint="#6FAEE0"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
